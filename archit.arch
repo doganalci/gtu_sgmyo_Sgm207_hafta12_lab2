@@ -1,0 +1,11 @@
+advanced_static_analysis/
+├── core/
+│   ├── loader.py
+│   ├── engine.py
+│   ├── hidden_ops.py
+│   └── crypto_tool.py
+├── data/
+│   └── _secrets_internal.dat
+├── plugins/
+│   └── plugin_exec.py
+└── main.py
